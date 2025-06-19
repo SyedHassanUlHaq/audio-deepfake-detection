@@ -1,3 +1,6 @@
 LA/*
 LA.zip?sequence=3
-
+deepfake/*
+.vscode/*
+__pycache__/
+*.pyc
